@@ -1,7 +1,7 @@
 # 教學文件
 皆為ppt檔
 
-## [Android Mvvm 架構範例] <https://github.com/Baiibbai/teaching-documents/blob/master/teaching-documents/branches/AndroidMvvm%E6%9E%B6%E6%A7%8B%E7%AF%84%E4%BE%8B.pptx>
+## [Android Mvvm 架構範例](https://github.com/Baiibbai/teaching-documents/blob/master/teaching-documents/branches/AndroidMvvm%E6%9E%B6%E6%A7%8B%E7%AF%84%E4%BE%8B.pptx)
 > Android studio的MVVM重構方法，從一般專案開始拆解，解釋為甚麼要拆解，如何將邏輯和頁面控制分開，以及在重構上會遇到元件設定方法的更改，使用新方法撰寫程式碼，使程式運用更靈活。
 
 ## Android更新版本菜單按鈕轉型
